@@ -1,0 +1,14 @@
+C:\Users\krazy\source\repos\MultiBank\MultiBank\obj\Debug\net8.0\MultiBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krazy\source\repos\MultiBank\MultiBank\obj\Debug\net8.0\MultiBank.AssemblyInfoInputs.cache
+C:\Users\krazy\source\repos\MultiBank\MultiBank\obj\Debug\net8.0\MultiBank.AssemblyInfo.cs
+C:\Users\krazy\source\repos\MultiBank\MultiBank\obj\Debug\net8.0\MultiBank.csproj.CoreCompileInputs.cache
+C:\Users\krazy\source\repos\MultiBank\MultiBank\bin\Debug\net8.0\MultiBank.exe
+C:\Users\krazy\source\repos\MultiBank\MultiBank\bin\Debug\net8.0\MultiBank.deps.json
+C:\Users\krazy\source\repos\MultiBank\MultiBank\bin\Debug\net8.0\MultiBank.runtimeconfig.json
+C:\Users\krazy\source\repos\MultiBank\MultiBank\bin\Debug\net8.0\MultiBank.dll
+C:\Users\krazy\source\repos\MultiBank\MultiBank\bin\Debug\net8.0\MultiBank.pdb
+C:\Users\krazy\source\repos\MultiBank\MultiBank\obj\Debug\net8.0\MultiBank.dll
+C:\Users\krazy\source\repos\MultiBank\MultiBank\obj\Debug\net8.0\refint\MultiBank.dll
+C:\Users\krazy\source\repos\MultiBank\MultiBank\obj\Debug\net8.0\MultiBank.pdb
+C:\Users\krazy\source\repos\MultiBank\MultiBank\obj\Debug\net8.0\MultiBank.genruntimeconfig.cache
+C:\Users\krazy\source\repos\MultiBank\MultiBank\obj\Debug\net8.0\ref\MultiBank.dll
